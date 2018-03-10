@@ -1,5 +1,10 @@
 
-
+//
+//  iCarousel.h
+//
+//  Version 1.8.3
+//
+//
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Wunknown-pragmas"
 #pragma clang diagnostic ignored "-Wreserved-id-macro"
