@@ -179,7 +179,7 @@
 
 #pragma mark -
 #pragma mark iCarousel taps
-
+// uncomment to make action on tap.
 //- (void)carousel:(__unused iCarousel *)carousel didSelectItemAtIndex:(NSInteger)index
 //{
 //    NSNumber *item = (self.items)[(NSUInteger)index];
